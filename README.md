@@ -22,5 +22,7 @@ Video based Realtime HeartRate Calculation for Openframeworks.
 ### Next Plan
 - 1D Signal Pre-Processing. 
 - 1D FFT based frequency calculation.
+- Heart Rate Calcuation.
+- Blood Pressure Prediction using ConvNet.
 
 
