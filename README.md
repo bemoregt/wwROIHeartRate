@@ -3,7 +3,7 @@ Video based Realtime HeartRate Calculation for Openframeworks.
 
 ![ROI Plot example]( https://github.com/bemoregt/ofxROIHeartRate/blob/master/ofxROIHeartRate.png "ROIGraph")
 - Realtime color mean value plot in red ROI.
-- FFT based Heart rate claculation (Not Yet).
+- FFT based Heart rate calculation (Not Yet).
 
 ### Algorithm
 - 1D Signal Pre-Processing. (Not Yet)
