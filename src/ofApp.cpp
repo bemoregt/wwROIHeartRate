@@ -39,7 +39,8 @@ void ofApp::setup(){
     graph.setColor(ofColor::white); // ofColor(255,255,255)
     graph.setPosition(10, 250);
     graph.setSize(620, 220);
-    graph.setAutoScale(true, 5.0);
+    graph.setAutoScale(true, 1.0);
+    graph.setBufSize(4096);
 }
 
 //--------------------------------------------------------------
