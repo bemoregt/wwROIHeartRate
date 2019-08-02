@@ -1,4 +1,4 @@
-# ofxROIHeartRate
+# wwROIHeartRate
 Video based Realtime HeartRate Calculation for Openframeworks. 
 
 ![ROI Plot example]( https://github.com/bemoregt/ofxROIHeartRate/blob/master/finger.jpg "ROIGraph")
